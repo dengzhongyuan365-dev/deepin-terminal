@@ -1,3 +1,9 @@
+deepin-terminal (6.0.18) unstable; urgency=medium
+
+  * chore: Update dman's resources
+
+ -- dengzhongyuan <dengzhongyuan@uniontech.com>  Fri, 20 Jun 2025 18:23:30 +0800
+
 deepin-terminal (6.0.17) unstable; urgency=medium
 
   * fix: crash on treeland (#378)
