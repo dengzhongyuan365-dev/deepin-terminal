@@ -1,3 +1,9 @@
+deepin-terminal (6.5.10) unstable; urgency=medium
+
+  * chore: Update deepin-manual resources (#428)
+
+ -- dengzhongyuan <dengzhongyuan@uniontech.com>  Thu, 10 Jul 2025 19:02:11 +0800
+
 deepin-terminal (6.5.9) unstable; urgency=medium
 
   * chore: update translation
